@@ -5,7 +5,7 @@
 - 👀 I’m interested in developing fantastic website and mobile applications.
 - 🌱 I’m currently learning Odoo CMS development. It's seems like shopify and wordpress. 
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me  gmail=> konadev0402@gmail.com
+- 📫 How to reach me  gmail=> softfeature42@gmail.com
 
 <!---
 AdvancedTeam100/AdvancedTeam100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
